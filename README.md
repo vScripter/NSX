@@ -5,5 +5,5 @@ This module is not production ready and is still in the Alpha development phase.
 
 
 ### Functions List
-[ ] - Get-NSXManagerSystemSummary
-[ ] - Get-NSXController
+- [ ] Get-NSXManagerSystemSummary
+- [ ] Get-NSXController
